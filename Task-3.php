@@ -29,7 +29,6 @@
         .container {
 
             margin-top: 100px;
-
         }
 
     </style>
@@ -37,7 +36,7 @@
   <body>
     
      <div class="container">
-
+     
           <table class="table">
             <thead>
               <tr>
@@ -61,9 +60,8 @@
               <?php  } ?>
             </tbody>
           </table>
-
+          
        </div>
-
 
     <!-- jQuery first, then Tether, then Bootstrap JS. -->
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
